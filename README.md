@@ -1,4 +1,4 @@
-Deep Convolutional Generative Adversarial Network
+#Deep Convolutional Generative Adversarial Network
 Esta es una implementacion de tipo clases de una red convolucional profunda, generativa y adversaria, utilizando Tensorflow 2.
 La idea basica es construir un modelo capaz de generar imagenes aleatorias basadas en la distribucion de un dataset de imagenes dado. Esta implementacion usa la base de datos MNIST (numeros manuscritos).
 
